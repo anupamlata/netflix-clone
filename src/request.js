@@ -1,5 +1,5 @@
 const API_KEY= "1f7e70e590a562d314a8e131c7f4a44f"
-
+                //1f7e70e590a562d314a8e131c7f4a44f
 
 const requests ={
     fetchTrending: `/trending/all/week?api_key=${API_KEY}&lanquage=en-US`,
